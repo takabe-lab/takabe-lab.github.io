@@ -33,7 +33,7 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginate #これが必須
 
 # Exclude from processing.
 # The following items will not be processed, by default.
