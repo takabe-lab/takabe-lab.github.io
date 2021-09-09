@@ -24,7 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  <font size="5">高邉研究室HP</font><br>
  東京工業大学 情報理工学院<br>
  数理・計算科学系<br>
- 大岡山キャンパス西8号館8F
+ 大岡山キャンパス西8号館8F<br>
+ mail takabe(あっと) c.titech.ac.jp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
