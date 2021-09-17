@@ -4,6 +4,7 @@ layout: default
 
 ## Satosh TAKABE, Ph. D.
 
+### Associate Professor
 ### Department of Mathematical and Computer Science, School of Computing, Tokyo Institute of Technology, Japan
 
 

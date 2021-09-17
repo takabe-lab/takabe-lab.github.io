@@ -22,6 +22,8 @@ layout: default
 
 2017/10~2020/11 理化学研究所革新知能統合研究センター 客員研究員
 
+2021/9~現在 東京工業大学 情報理工学院 数理・計算科学系 准教授
+
 ### 賞罰
 
 2014/3   広域科学専攻奨励賞
@@ -48,7 +50,13 @@ layout: default
 
 2020  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
 
+2020  ISITA2020 TPC member
 
+2021  IEEE ICC SAC-Machine Learning for Communications TPC member
+
+2021  IEEE ITW2021 TPC member
+
+2021  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
 
 ### その他
 
