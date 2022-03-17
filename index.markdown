@@ -5,6 +5,10 @@
 layout: home
 ---
 <br>
+<head>
+<title>高邉研究室HP</title>
+</head>
+
 <font size="6">
 高邉研究室のHPへようこそ！
 </font><br>
