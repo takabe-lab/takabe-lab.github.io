@@ -5,8 +5,12 @@ layout: default
 ## 業績リスト / Publication list
 
 ### 論文（英語；査読有）/ Refereed journal articles
-13. T. Wadayama and S. Takabe, "Chebyshev Periodical Successive Over-Relaxation for Accelerating Fixed-Point Iterations," **IEEE Signal Processing Letters, vol. 28, [pp. 907-911](https://ieeexplore.ieee.org/document/9405476/), 2021**
 
+15. T. Wadayama, S. Takabe. "Proximal Decoding for LDPC Codes", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E106-A, No. 3, pp. 359-367, Mar. 2023.
+
+14. S. Takabe, T. Wadayama, "Convergence Acceleration via Chebyshev Step: Plausible Interpretation of Deep-Unfolded Gradient Descent", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E105A, No. 8, pp. 1110-1120, 2022.
+
+13. T. Wadayama and S. Takabe, "Chebyshev Periodical Successive Over-Relaxation for Accelerating Fixed-Point Iterations," **IEEE Signal Processing Letters, vol. 28, [pp. 907-911](https://ieeexplore.ieee.org/document/9405476/), 2021**
 
 12. S. Takabe, Y. Yamauchi, and T. Wadayama, &rdquo;Deep-Unfolded Sparse CDMA: Multiuser Detector and Sparse Signature Design,&rdquo; <span style="font-weight: bold;">IEEE Access, vol.9, [pp. 40027-40038](https://ieeexplore.ieee.org/document/9145193/), 2021</span>
 
@@ -33,6 +37,8 @@ layout: default
 1. S. Takabe and K. Hukushima, &ldquo;Minimum vertex cover problems on random hypergraphs: replica symmetric solution and a leaf removal algorithm,&rdquo; <span style="font-weight: bold;">Physical Review E 89, <a class=" link" href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062139" target="_blank">062139</a> (2014), <a class=" link" href="https://arxiv.org/abs/1301.5769" target="_blank">arXiv</a>
 
 ### 査読付き国際会議 / Refereed conference papars
+
+12. T. Wadayama, S. Takabe. "Asymptotic Mean Squared Error of Noisy Periodical Successive Over-Relaxation", IEEE International Symposium on Information Theory, Vol. 2022-June, pp. 2273-2278, 2022.
 
 11. S. Takabe and T. Wadayama, &ldquo;Deep Unfolded Multicast Beamforming,&rdquo; <span style="font-weight: bold;">2020 IEEE Global Communications Conference (Globecom2020)</span>, 2020,DOI:<a class=" link" href="https://doi.org/10.1109/GLOBECOM42002.2020.9322114" target="_blank">10.1109/GLOBECOM42002.2020.9322114</a>, <a class=" link" href="https://arxiv.org/abs/2004.09345">arXiv</a>
 
@@ -82,6 +88,8 @@ layout: default
 
 
 ### 口頭/ポスター発表 / Domestic presentations
+
+（2022年以降は研究室のHPを参照）
 
 75. 和田山正，高邉賢史，「LDPC符号化されたMassive MIMO通信路のための近接射影復号法」（口頭，電子情報通信学会情報理論研究会，オンライン，2021）
 
