@@ -49,4 +49,4 @@ layout: home
 
 本年度の留学生/研究生に関しては当研究室への募集を締め切りました．お問い合わせありがとうございました．<br>
 
-We have closed the application for this year's international master course students/research students for this research group. Thank you for your inquiry.</font><br>
+We have closed the application for this year's international master course students/research students for this research group. Thank you for your inquiry.<br>
