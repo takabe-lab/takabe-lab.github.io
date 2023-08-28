@@ -4,6 +4,7 @@ body {
 }
 
 img {
+  width: 500px;
   max-width: 80%;
   border: 1px solid #eee;
 } 
