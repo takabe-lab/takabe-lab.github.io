@@ -3,6 +3,11 @@ body {
     padding-bottom: 60px;
 }
 
+img {
+  max-width: 80%;
+  border: 1px solid #eee;
+} 
+
 .copyright {
     color: #ffffff;
 }

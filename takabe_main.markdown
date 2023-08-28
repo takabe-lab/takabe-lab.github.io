@@ -36,6 +36,7 @@ layout: default
 
 2021/8 信号処理研究会論文賞
 
+2023/6 電子情報通信学会論文賞
 
 ### 委員等
 
@@ -56,7 +57,7 @@ layout: default
 
 2021  IEEE ITW2021 TPC member
 
-2021  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
+2021-23  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
 
 ### その他
 
