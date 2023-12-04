@@ -51,10 +51,6 @@ layout: default
 
 ![情報統計力学のイメージ]({{site.baseurl}}/images/statmech.png)
 
-<b>
-※内部B3向けの研究室紹介を12/26の研プロ終了後に行います（場所:W805;17:30-18:30）．
-ご興味のある方はどうぞ．
-</b>
 
 <br><br>
 ### FAQ
