@@ -5,7 +5,7 @@ layout: default
 ## 高邉賢史
 ※本当ははしご高
 
-### [業績リストはこちら](./takabe_publication.html)
+### [業績リストはこちら](./takabe_publication.html) + [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?q_researcher_content_number=CTT100861556)
 
 ### 略歴
 
@@ -42,7 +42,11 @@ layout: default
 
 2019~21 電子情報通信学会英文論文誌A「情報理論とその応用」小特集号 編集委員
 
+2020/04~　電子情報通信学会 情報理論研究会 研究専門委員
+
 2020/06~　電子情報通信学会 信号処理研究会 研究専門委員
+
+2023 第38回信号処理シンポジウム幹事
 
 
 ### TPC等

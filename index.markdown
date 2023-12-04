@@ -44,9 +44,12 @@ layout: home
 <font size="4">
 2021年9月にできた新しい研究室です．興味を持っていただける学生さん，研究者の方はお気軽にご連絡ください．
 
+<br>
 本研究室の志望を検討されている方は<a href="./4applicants.html">こちら</a>をご覧ください．
+
+<br>
+<b>※内部B3向けの研究室紹介を12/26の研プロ終了後に行います（場所:W805;17:30-18:30）．
+ご興味のある方はどうぞ．</b>
+
 </font><br><br>
 
-本年度の留学生/研究生に関しては当研究室への募集を締め切りました．お問い合わせありがとうございました．<br>
-
-We have closed the application for this year's international master course students/research students for this research group. Thank you for your inquiry.<br>
