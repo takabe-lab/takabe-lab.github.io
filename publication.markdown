@@ -5,10 +5,10 @@ layout: default
 - 2023年度
 
   +Reviewed articles/conference papers
-
+  3. Satoshi Takabe, Takashi Abe, "Hubbard–Stratonovich Detector for Simple Trainable MIMO Signal Detection," accepted to IEEE Communications Letteres, 2023.
   2. Kazuya Nagasato, Satoshi Takabe, Kazuyuki Shudo. "Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities", The 25th International Conference on Big Data Analytics and Knowledge Discovery (DAWAK 2023), Aug. 2023.
   1. T. Wadayama, Satoshi Takabe. "Proximal Decoding for LDPC Codes", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E106-A, No. 3, pp. 359-367, Mar. 2023.（電子情報通信学会論文賞）
-  
+
   +国内発表（Pはポスター）
 
   5. 阿部傑, 髙邉賢史. "大規模MIMOにおける低計算量な学習可能多値QAM信号検出器", 情報理論とその応用シンポジウム(SITA2023), Nov. 2023.
