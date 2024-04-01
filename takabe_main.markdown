@@ -48,7 +48,6 @@ layout: default
 
 2023 第38回信号処理シンポジウム幹事
 
-
 ### TPC等
 
 2019  電子情報通信学会 SITAシンポジウムTPC委員
@@ -61,7 +60,7 @@ layout: default
 
 2021  IEEE ITW2021 TPC member
 
-2021-23  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
+2021-24  IEEE Globecom SAC-Machine Learning for Wireless Communications TPC member
 
 ### その他
 

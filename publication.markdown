@@ -5,9 +5,12 @@ layout: default
 - 2023年度
 
   +Reviewed articles/conference papers
-  3. Satoshi Takabe, Takashi Abe, "Hubbard–Stratonovich Detector for Simple Trainable MIMO Signal Detection," accepted to IEEE Communications Letteres, 2023.
+
+  3. Satoshi Takabe, Takashi Abe, "Hubbard–Stratonovich Detector for Simple Trainable MIMO Signal Detection," IEEE Communications Letteres, vol. 13, no. 3, pp. 701-705, 2024.
   2. Kazuya Nagasato, Satoshi Takabe, Kazuyuki Shudo. "Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities", The 25th International Conference on Big Data Analytics and Knowledge Discovery (DAWAK 2023), Aug. 2023.
   1. T. Wadayama, Satoshi Takabe. "Proximal Decoding for LDPC Codes", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E106-A, No. 3, pp. 359-367, Mar. 2023.（電子情報通信学会論文賞）
+
+  <br>
 
   +国内発表（Pはポスター）
 
@@ -26,6 +29,8 @@ layout: default
   1. Satoshi Takabe, Wadayama, T.. "Convergence Acceleration via Chebyshev Step: Plausible Interpretation of Deep-Unfolded Gradient Descent", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E105A, No. 8, pp. 1110-1120, 2022.
   2. Wadayama, T., Satoshi Takabe. "Asymptotic Mean Squared Error of Noisy Periodical Successive Over-Relaxation", IEEE International Symposium on Information Theory - Proceedings, Vol. 2022-June, pp. 2273-2278, 2022
   3. T. Wadayama, Satoshi Takabe. "Proximal Decoding for LDPC Codes", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E106-A, No. 3, pp. 359-367, Mar. 2023.
+
+  <br>
 
   +国内発表（Pはポスター）
 
