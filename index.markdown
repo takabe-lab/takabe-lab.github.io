@@ -38,17 +38,15 @@ layout: home
 </font><br>
 
 <font size="4">
-<a href="./takabe_main.html">高邉の個人ページはこちら</a>
-</font><br><br>
-
-<font size="4">
 2021年9月にできた研究室です．興味を持っていただける学生さん，研究者の方はお気軽にご連絡ください．
-
-2024年4月 荒井俊太助教が着任されました．
-
-<br>
 本研究室の志望を検討されている方は<a href="./4applicants.html">こちら</a>をご覧ください．
 
-<br>
 
+<br>
+2024年4月 荒井俊太助教が着任されました．
 </font><br><br>
+
+<br>
+<font size="4">
+<a href="./takabe_main.html">高邉の個人ページはこちら</a>
+</font><br>
