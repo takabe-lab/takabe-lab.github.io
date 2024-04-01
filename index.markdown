@@ -44,9 +44,8 @@ layout: home
 
 <br>
 2024年4月 荒井俊太助教が着任されました．
-</font><br><br>
+</font><br>
 
-<br>
 <font size="4">
 <a href="./takabe_main.html">高邉の個人ページはこちら</a>
-</font><br>
+</font>
