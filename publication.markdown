@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+- 2024年度
+
++Reviewed articles/conference papers
+
+  1. Ryo Hagiwara, Satoshi Takabe, "Convergence Acceleration of Markov Chain Monte Carlo-Based Gradient Descent by Deep Unfolding," Journal of the Physical Society of Japan, vol. 93, p. 063801, 2024.
+
+<br>
 
 - 2023年度
 
