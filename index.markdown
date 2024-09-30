@@ -33,7 +33,7 @@ layout: home
 <li> 誤り訂正符号（LDPC符号）の解析</li>
 <li> モンテカルロ法や量子（模擬）計算による最適化・サンプリング</li>
 </ul>
-などが挙げられます．<br>
+やこれらの融合などが挙げられます．<br>
 深層展開 (deep unfolding) に関する解説記事は<a href="https://www.jstage.jst.go.jp/article/essfr/14/1/14_60/_article/-char/ja">こちら</a>（日本語；フリー）
 </font><br>
 
