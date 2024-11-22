@@ -11,6 +11,8 @@ layout: default
 
   +国内発表（Pはポスター）
 
+  5. 河村 裕弥，髙邉賢史，"粒子型変分推論におけるLocal Entropyの適用"，IBIS2024，Oct.2024.
+  4. Sunta Arai, Ryo Hagiwara, Satoshi Takabe, "Learning-based quantum optimization algorithms for quadratic unconstrained binary optimization problems," INQA2024, Oct., 2024.
   3. 荒井俊太，髙邉賢史，"深層展開を用いた反古典量子アニーリングの加速", 日本物理学会年次大会, Sep. 2024.
   2. 萩原涼，荒井俊太，髙邉賢史，"量子アニーラーを用いた深層展開型組合せ最適化ソルバーのための転移学習", 日本物理学会年次大会, Sep. 2024.
   1. 萩原涼，荒井俊太，髙邉賢史，"量子アニーラーを用いた深層展開型組合せ最適化ソルバーのための転移学習", 電子情報通信学会信号処理研究会, Aug. 2024.
