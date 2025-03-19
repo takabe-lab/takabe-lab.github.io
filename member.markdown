@@ -40,9 +40,9 @@ layout: default
 
 - B4
 
-　長谷川 駿：TBD
+  長谷川 駿：TBD
 
-　片山 康大：TBD
+  片山 康大：TBD
 
   <br>
 
