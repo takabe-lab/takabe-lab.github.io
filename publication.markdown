@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+- 2025年度
+
+　+国内発表（Pはポスター）
+1. 依田和城，西川宣彦，荒井俊太，髙邉賢史，"粒子型変分推論を用いたWang-Landau法による周辺尤度比の推定", 電子情報通信学会信号処理研究会, Jun. 2025.
+　
+
 - 2024年度
 
   +Reviewed articles/conference papers

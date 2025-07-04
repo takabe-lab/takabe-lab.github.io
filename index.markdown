@@ -34,7 +34,7 @@ layout: home
 <li> モンテカルロ法や量子（模擬）計算による最適化・サンプリング</li>
 </ul>
 やこれらの融合などが挙げられます．<br>
-深層展開 (deep unfolding) に関する解説記事は<a href="https://www.jstage.jst.go.jp/article/essfr/14/1/14_60/_article/-char/ja">こちら</a>（日本語；フリー）
+深層展開 (deep unfolding) に関する解説記事は<a href="https://www.jstage.jst.go.jp/article/essfr/14/1/14_60/_article/-char/ja">こちら</a>と<a href="https://www.jstage.jst.go.jp/article/isciesci/68/11/68_422/_article/-char/ja/">こちら</a>（日本語；フリー）
 </font><br>
 
 <font size="4">
