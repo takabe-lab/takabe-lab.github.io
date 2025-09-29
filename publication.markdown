@@ -3,9 +3,25 @@ layout: default
 ---
 - 2025年度
 
-　+国内発表（Pはポスター）
-1. 依田和城，西川宣彦，荒井俊太，髙邉賢史，"粒子型変分推論を用いたWang-Landau法による周辺尤度比の推定", 電子情報通信学会信号処理研究会, Jun. 2025.
+  +Reviewed articles/conference papers
+
+  1. R. Hagiwara, S. Arai, and S. Takabe, "Transfer Leraning for a deep-unfolded combinatorial optimization solver with quantum annealer," Physical Review A, vol.112, p.012431, 2025.
+
+  2. S. Arai and T. Kadowaki, "Quantum annealing enhanced Markov-chain Monte Carlo," Scientific Report, vol.15, p.21427, 2025.
+
+  3. S. Takabe, "Deep unfolded simulated bifurcation for massive MIMO signal detection," accepted to IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences.
+
+  <br>
+
+  +国内発表（Pはポスター）
+
+  4. 土橋慶太，荒井俊太，髙邉賢史，"Wang-Landau法を用いたグローバー適応探索の効率化", 電子情報通信学会信号処理研究会, Sep. 2025.
+  3. 萩原涼，荒井俊太，髙邉賢史，"深層展開型組合せ最適化ソルバーの不等式制約への応用", 電子情報通信学会信号処理研究会, Sep. 2025.　
+  2. 宮田竜弥，荒井俊太，髙邉賢史，"サンプリング過程の勾配情報に基づくレプリカ交換法の温度セット最適化", 日本物理学会年次大会, Sep. 2025.
+  1. 依田和城，西川宣彦，荒井俊太，髙邉賢史，"粒子型変分推論を用いたWang-Landau法による周辺尤度比の推定", 電子情報通信学会信号処理研究会, Jun. 2025.
+
 　
+<br>
 
 - 2024年度
 
