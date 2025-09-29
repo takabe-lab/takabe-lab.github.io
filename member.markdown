@@ -14,6 +14,11 @@ layout: default
 
   [荒井 俊太](https://shun1521.github.io/); 情報統計力学，量子計算
 
+- 特任助教 (JST-BOOST)
+
+  [奥山 真佳](https://sites.google.com/view/okuyama/research); 統計力学一般，量子計算
+
+
 - D1
 
   萩原 涼：量子計算手法と深層展開の融合 [量子計算，機械学習]
