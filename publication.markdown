@@ -9,12 +9,16 @@ layout: default
 
   2. S. Arai and T. Kadowaki, "Quantum annealing enhanced Markov-chain Monte Carlo," Scientific Report, vol.15, p.21427, 2025.
 
-  3. S. Takabe, "Deep unfolded simulated bifurcation for massive MIMO signal detection," accepted to IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences.
+  3. S. Takabe, "Deep unfolded simulated bifurcation for massive MIMO signal detection," IEICE TRANSACTIONS on Fundamentals Vol.E109-A No.3 pp.484-489, 2026.
+
+  4. S. Sugiyama, S. Arai, and S. Takabe, "Exact 1-Bit Precoding for MIMO System by Deep Learning-Based Branching Variable Selection," IEEE ICCT-Pacific, 2026.
 
   <br>
 
   +国内発表（Pはポスター）
-
+  7. 杉山生龍，荒井俊太，髙邉賢史，"機械学習による分枝変数選択を用いたMIMOのための1ビットプリコーディングの高速化"，情報理論とその応用シンポジウム(SITA2025), Nov. 2025.
+  6. (P) 萩原涼，荒井俊太，髙邉賢史，"サンプリングに基づく組合せ最適化ソルバーの収束加速と転移学習による量子アニーラへの応用"，情報理論とその応用シンポジウム(SITA2025), Nov. 2025.
+  5. (P) 松村陸央, 荒井俊太，髙邉賢史，"深層展開を用いた時系列モデルにおける応答性の高いパラメタ推定手法の検討", 信号処理シンポジウム, Nov., 2025.
   4. 土橋慶太，荒井俊太，髙邉賢史，"Wang-Landau法を用いたグローバー適応探索の効率化", 電子情報通信学会信号処理研究会, Sep. 2025.
   3. 萩原涼，荒井俊太，髙邉賢史，"深層展開型組合せ最適化ソルバーの不等式制約への応用", 電子情報通信学会信号処理研究会, Sep. 2025.　
   2. 宮田竜弥，荒井俊太，髙邉賢史，"サンプリング過程の勾配情報に基づくレプリカ交換法の温度セット最適化", 日本物理学会年次大会, Sep. 2025.
