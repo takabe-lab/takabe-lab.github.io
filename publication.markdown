@@ -1,6 +1,26 @@
 ---
 layout: default
 ---
+- 2026年度
+
+  +Reviewed articles/conference papers
+
+  1. S. Takabe, S. Arai, and T. Wadayama, "Physics-Aware Linearized ADMM and Its Unrolling," EUSIPCO 2026. (see also <https://arxiv.org/abs/2606.01652>)
+
+  <br>
+
+  +国内発表（Pはポスター）
+  1. 髙邉賢史，荒井俊太，和田山正，"偏微分方程式に基づく観測過程の逆問題のための学習可能線形化ADMMアルゴリズム", 電子情報通信学会信号処理研究会, Jun. 2026.
+
+  <br>
+
+  +misc.
+
+  1. 髙邉賢史，"学習とエネルギー 統計力学で理解するAI"，現代化学，2026年7月号，2026.
+
+
+<br>
+
 - 2025年度
 
   +Reviewed articles/conference papers
